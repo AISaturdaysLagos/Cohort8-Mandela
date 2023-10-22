@@ -1,6 +1,8 @@
 
 
 UNTRACKED_playground.ipynb
+data/*
+!data/.gitkeep
 
 
 
