@@ -1,8 +1,7 @@
 # Air Quality Monitoring and Anomaly Detection System
-[This readme should contain details about you team and project. Please Feel free to modify and expand upon this template to suit the specific needs and details of your group project]
 
 ## Project description 
-Write a brief summary about the project here (what problem are you solving , whats your solution) including goals, and key features
+This project aims to leverage machine learning techniques and capabilities to detect anomalies on air quality data and predict air quality trends. It aims to address the problem of forecasting air pollution levels and identifying unexpected pollution irregularities and spikes in environmental data. By utilizing datasets aggregated from multiple sources, the proposed system aims to provide an extensive real-time overview of air quality trends. The system would primarily utilize machine learning models to reach accurate predictions of key air quality indices (e.g. AQI) in different states across Nigeria.
 
 ## Table of Contents
 
@@ -16,7 +15,12 @@ Step-by-step instructions on how to install and set up the project
 List and thank contributors, libraries, or resources that have been used or inspired the project
 
 ## Contact
-Provide contact information for the project maintainers or team members
+Project maintainers/Team members
+Damilola Akin-Adamu - www.linkedin.com/in/damilola-akin-adamu-46a954195
+Yetunde Afolabi
+Peter Agida
+Abdul-lateef Asafa
+Oluwapolore Oyeniji
 
 ## Requirements:
 Your project should involve the following components:
