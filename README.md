@@ -18,7 +18,7 @@ List and thank contributors, libraries, or resources that have been used or insp
 Project maintainers/Team members
 Damilola Akin-Adamu - www.linkedin.com/in/damilola-akin-adamu-46a954195,
 Yetunde Afolabi,
-Peter Agida,
+Peter Agida - http://linkedin.com/in/peter-agida-29aa2554,
 Abdul-lateef Asafa,
 Oluwapolore Oyeniji
 
