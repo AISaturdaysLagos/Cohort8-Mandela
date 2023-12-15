@@ -19,8 +19,8 @@ Project maintainers/Team members
 Damilola Akin-Adamu - www.linkedin.com/in/damilola-akin-adamu-46a954195,
 Yetunde Afolabi,
 Peter Agida - http://linkedin.com/in/peter-agida-29aa2554,
-Abdul-lateef Asafa,
-Oluwapolore Oyeniji
+Abdul-lateef Asafa - https://www.linkedin.com/in/abdullateef-asafa,
+Oluwapolore Oyeniji - https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info
 
 ## Requirements:
 Your project should involve the following components:
