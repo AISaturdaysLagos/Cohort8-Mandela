@@ -15,20 +15,20 @@ Step-by-step instructions on how to install and set up the project
 Special thanks to the AI Saturdays Lagos Team for organizing this cohort and to our team mentor, Joscha Cüppers
 
 ## Contact
-Project maintainers/Team members
+**Project maintainers/Team members**
 
-www.linkedin.com/in/damilola-akin-adamu-46a954195 www.linkedin.com/in/damilola-akin-adamu-46a954195
+Damilola Akin-Adamu - www.linkedin.com/in/damilola-akin-adamu-46a954195
 
-[Yetunde Afolabi]([url](https://www.linkedin.com/in/yetundeafolabi007))
+Yetunde Afolabi - https://www.linkedin.com/in/yetundeafolabi007
 
-[Peter Agida]([url](http://linkedin.com/in/peter-agida-29aa2554))
+Peter Agida - http://linkedin.com/in/peter-agida-29aa2554
 
-[Abdul-lateef Asafa]([url](https://www.linkedin.com/in/abdullateef-asafa)) 
+Abdul-lateef Asafa - https://www.linkedin.com/in/abdullateef-asafa
 
-[Oluwapolore Oyeniji]([url](https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info))
+Oluwapolore Oyeniji - https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info
 
-Team Mentor
+**Team Mentor**
 
-[Joscha Cüppers]([url](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/)) 
+Joscha Cüppers - https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/
 
 
