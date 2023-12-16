@@ -16,7 +16,8 @@ Special thanks to the AI Saturdays Lagos Team for organizing this cohort and to 
 
 ## Contact
 Project maintainers/Team members
-Damilola Akin-Adamu www.linkedin.com/in/damilola-akin-adamu-46a954195,
+
+[Damilola Akin-Adamu](www.linkedin.com/in/damilola-akin-adamu-46a954195)
 
 Yetunde Afolabi - https://www.linkedin.com/in/yetundeafolabi007,
 
@@ -25,6 +26,10 @@ Peter Agida - http://linkedin.com/in/peter-agida-29aa2554,
 Abdul-lateef Asafa - https://www.linkedin.com/in/abdullateef-asafa,
 
 Oluwapolore Oyeniji - https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info
+
+Team Mentor
+
+Joscha Cüppers - https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/
 
 ## Requirements:
 Your project should involve the following components:
