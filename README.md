@@ -15,7 +15,7 @@ This project aims to leverage machine learning techniques and capabilities to de
 
 ## Installation
 - Clone the team's repository: `git clone https://github.com/AISaturdaysLagos/Cohort8-Mandela.git`
-- Sign up on **[Streamlit]**(https://streamlit.io/)
+- Sign up on **[Streamlit](https://streamlit.io/)**
 - A python environment
 
 ## Useful Commands
