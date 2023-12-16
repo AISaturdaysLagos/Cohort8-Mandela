@@ -19,26 +19,16 @@ Project maintainers/Team members
 
 [Damilola Akin-Adamu](www.linkedin.com/in/damilola-akin-adamu-46a954195)
 
-Yetunde Afolabi - https://www.linkedin.com/in/yetundeafolabi007,
+[Yetunde Afolabi]([url](https://www.linkedin.com/in/yetundeafolabi007))
 
-Peter Agida - http://linkedin.com/in/peter-agida-29aa2554,
+[Peter Agida]([url](http://linkedin.com/in/peter-agida-29aa2554))
 
-Abdul-lateef Asafa - https://www.linkedin.com/in/abdullateef-asafa,
+[Abdul-lateef Asafa]([url](https://www.linkedin.com/in/abdullateef-asafa)) 
 
-Oluwapolore Oyeniji - https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info
+[Oluwapolore Oyeniji]([url](https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info))
 
 Team Mentor
 
-Joscha Cüppers - https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/
+[Joscha Cüppers]([url](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/)) 
 
-## Requirements:
-Your project should involve the following components:
-- **Data Sourcing:** Web scraping or any other data sourcing method.
-- **Data Cleaning and Prep**: Data Cleaning, preparation and basic statistics reporting
-- **Modeling**: Base Model, Model Comparison, Hyper-parameter Tuning and monitoring with experiment management
-- **Model Deployment :** Deploy on the web or mobile. You can leverage Google Colab/Streamlit/Huggyface where possible.
-- **Requirements.txt**: A file for all dependecies required
 
-### Here is the timeline for your group projects:
-- Project Submission Deadline: December 10, 2023
-- Presentation Day: December 16, 2023
