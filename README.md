@@ -17,7 +17,7 @@ Special thanks to the AI Saturdays Lagos Team for organizing this cohort and to 
 ## Contact
 Project maintainers/Team members
 
-[Damilola Akin-Adamu](www.linkedin.com/in/damilola-akin-adamu-46a954195)
+www.linkedin.com/in/damilola-akin-adamu-46a954195 www.linkedin.com/in/damilola-akin-adamu-46a954195
 
 [Yetunde Afolabi]([url](https://www.linkedin.com/in/yetundeafolabi007))
 
