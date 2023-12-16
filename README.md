@@ -12,11 +12,11 @@ Explain how to get a copy of the project up and running on a local machine for d
 Step-by-step instructions on how to install and set up the project
 
 ## Acknowledgments
-List and thank contributors, libraries, or resources that have been used or inspired the project
+Special thanks to the AI Saturdays Lagos Team for organizing this cohort and to our team mentor, Joscha Cüppers
 
 ## Contact
 Project maintainers/Team members
-Damilola Akin-Adamu - www.linkedin.com/in/damilola-akin-adamu-46a954195,
+[Damilola Akin-Adamu] (www.linkedin.com/in/damilola-akin-adamu-46a954195),
 Yetunde Afolabi - https://www.linkedin.com/in/yetundeafolabi007,
 Peter Agida - http://linkedin.com/in/peter-agida-29aa2554,
 Abdul-lateef Asafa - https://www.linkedin.com/in/abdullateef-asafa,
