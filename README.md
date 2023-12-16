@@ -6,29 +6,56 @@ This project aims to leverage machine learning techniques and capabilities to de
 ## Table of Contents
 
 ## Getting Started 
-Explain how to get a copy of the project up and running on a local machine for development and testing purposes
+
+### Prerequisites
+- Make sure you have Python installed. 
+- A streamlit account 
+- A GitHub Page
+
 
 ## Installation
-Step-by-step instructions on how to install and set up the project
+- Clone the team's repository: `git clone https://github.com/AISaturdaysLagos/Cohort8-Mandela.git`
+- Sign up on **[Streamlit]**(https://streamlit.io/)
+- A python environment
+
+## Useful Commands
+```bash
+pip install -r requirements.txt
+```
+### Running the App
+To run the app, use the following command:
+```bash
+streamlit run Air_Quality.py
+```
+## App Usage
+- Enter the state name and coordinates for prediction.
+- Explore the air quality pollutants on the map.
+- Feel free to customize and enhance the app according to your needs!
 
 ## Acknowledgments
-Special thanks to the AI Saturdays Lagos Team for organizing this cohort and to our team mentor, Joscha Cüppers
+Big thanks to the [AI Saturday Lagos](https://github.com/AISaturdaysLagos) team for providing a platform that not only teaches machine learning but plays a pivotal role in democratizing artificial intelligence in Nigeria🙌.
+
+Special thanks to [Joscha Cüppers](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/) for his invaluable support and exceptional hands-on mentorship🙌.
 
 ## Contact
-**Project maintainers/Team members**
-
-Damilola Akin-Adamu - www.linkedin.com/in/damilola-akin-adamu-46a954195
-
-Yetunde Afolabi - https://www.linkedin.com/in/yetundeafolabi007
-
-Peter Agida - http://linkedin.com/in/peter-agida-29aa2554
-
-Abdul-lateef Asafa - https://www.linkedin.com/in/abdullateef-asafa
-
-Oluwapolore Oyeniji - https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info
 
 **Team Mentor**
 
-Joscha Cüppers - https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/
+- [Joscha Cüppers](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/)
+
+**Project maintainers/Team members**
+
+- [Damilola Akin-Adamu](https://www.linkedin.com/in/damilola-akin-adamu-46a954195)
+
+- [Yetunde Afolabi](https://www.linkedin.com/in/yetundeafolabi007)
+
+- [Peter Agida](http://linkedin.com/in/peter-agida-29aa2554)
+
+- [Abdul-lateef Asafa](https://www.linkedin.com/in/abdullateef-asafa)
+
+- [Oluwapolore Oyeniji](https://www.linkedin.com/in/oluwapolore-oyeniji-6661a4218?trk=contact-info)
+
+
+
 
 
